@@ -9,3 +9,15 @@ Bot discord ( Js ) V14
 - Bom uso do bot, abraços ;)
 
 $$ Humildade Sempre SZ
+
+############################################################
+
+# Como Colocar TOKEN??
+
+/ Copie seu token no Discord developer portal na sua aplicação ( Que seria seu bot )
+/ Coloque na aba "Secrets"
+/ No "Key" coloque TOKEN com letra maiusculas
+
+/ Em "Value" coloque o token e aperte "Save"
+
+#############################################################
