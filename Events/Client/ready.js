@@ -19,6 +19,6 @@ client.once('ready', async () => {
     let a1 = ["Digite &help"],i = 0;
     setInterval(() => client.user.setActivity(`${a1[i++ % a1.length]}`,{
     type:
-      "STREAMING", url:"https://www.twitch.tv/trava_z4p_101/videos"}
+      "STREAMING", url:"LINK DO PERFIL DA LIVE"}//PLAYING, LISTENING, STREAMING
     ), 5000)
 }); 
